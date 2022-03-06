@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/CodigoCodeManagement/app/src/main/res/drawable/ic_baseline_chat_bubble_24.xml" value="0.2915" />
+        <entry key="..\:/Project/CodigoCodeManagement/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.203" />
+        <entry key="..\:/Project/CodigoCodeManagement/app/src/main/res/drawable/ic_baseline_un_favorite_24.xml" value="0.196" />
+        <entry key="..\:/Project/CodigoCodeManagement/app/src/main/res/drawable/ic_filter.xml" value="0.1285" />
+        <entry key="..\:/Project/CodigoCodeManagement/app/src/main/res/layout/activity_detail.xml" value="0.33" />
+        <entry key="..\:/Project/CodigoCodeManagement/app/src/main/res/layout/activity_home.xml" value="0.18802083333333333" />
+        <entry key="..\:/Project/CodigoCodeManagement/app/src/main/res/layout/activity_main.xml" value="0.25422535211267605" />
+        <entry key="..\:/Project/CodigoCodeManagement/app/src/main/res/layout/list_item_cast.xml" value="0.14114583333333333" />
+        <entry key="..\:/Project/CodigoCodeManagement/app/src/main/res/layout/list_item_recommended.xml" value="0.67" />
+        <entry key="..\:/Project/CodigoCodeManagement/app/src/main/res/layout/list_item_upcoming.xml" value="0.5" />
+        <entry key="..\:/Project/CodigoCodeManagement/app/src/main/res/layout/shimmer_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Project/CodigoCodeManagement/app/src/main/res/layout/shimmer_home.xml" value="0.18802083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

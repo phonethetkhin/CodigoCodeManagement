@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CodigoCodeManagement</string>
+    <string name="what_are_you_looking_for">What are you looking for?</string>
+    <string name="search_for_movies_events_amp_more"><![CDATA[Search for movies, events & more]]></string>
+    <string name="movies">Movies</string>
+    <string name="events">Events</string>
+    <string name="plays">Plays</string>
+    <string name="sports">Sports</string>
+    <string name="activities">Activities</string>
+    <string name="recommended">Recommended</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="description">Movie description</string>
+    <string name="cast">Cast</string>
+    <string name="view_all">View all</string>
+    <string name="book_tickets">Book Tickets</string>
+</resources>
